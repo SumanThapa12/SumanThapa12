@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on my MAJOR project. **"Adversarial-Threat-Detector"**
 
-- 📫 How to reach me **https://www.linkedin.com/in/suman-thapa-048953249/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
